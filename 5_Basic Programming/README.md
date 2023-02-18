@@ -1,4 +1,4 @@
-# Introduction to Algorithm and Golang
+# (5) Basic Programming
 [![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 
 Pada section 5 Basic Programming, saya mempelajari hal-hal ketika membaca dari materi atau dari live session. Yaitu sebagai berikut :

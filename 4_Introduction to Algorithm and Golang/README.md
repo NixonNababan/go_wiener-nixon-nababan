@@ -1,4 +1,4 @@
-# Introduction to Algorithm and Golang
+# (4) Introduction to Algorithm and Golang
 [![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
 
 Pada section 4 Introduction to Algorithm and Golang, saya mempelajari hal-hal ketika membaca dari materi atau dari live session. Yaitu sebagai berikut :
